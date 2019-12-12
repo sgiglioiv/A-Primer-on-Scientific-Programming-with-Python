@@ -1,3 +1,4 @@
+#A Primer on Scientific Programming with Python by Hans Petter Langtangen
 This will be working through the examples in the textbook A Primer on Scientific Programming with Python
 by Hans Petter Langtangen.
 
